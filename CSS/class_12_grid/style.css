@@ -1,0 +1,23 @@
+/* p{
+    border: 1px solid black;
+
+}
+
+.para-2{
+
+} */
+
+
+.container{
+    border: 1px solid black;
+    display: grid; 
+    grid-template-columns: 1fr, 1fr ,2fr, 1fr ;
+    grid-template-rows: 1fr , 1fr ,2fr, 1fr;
+    
+
+
+}
+
+.item{
+    border: 1px solid black;
+}

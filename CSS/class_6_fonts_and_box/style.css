@@ -1,0 +1,15 @@
+h1:hover{
+    color: #da1a1a;
+
+   
+}
+p::first-letter{
+    font-size: 2em;
+    color: #da1a1a;
+    font-weight: bold;
+}
+button:hover{
+    background-color: #da1a1a;
+    color: white;
+    align-items: center;
+}

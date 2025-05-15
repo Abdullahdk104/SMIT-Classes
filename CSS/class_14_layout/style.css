@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.navbar{
+
+    border-bottom:1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+
+   
+}
+
+
+.nav-list{
+   display: flex;
+   list-style-type: none;
+  
+  
+
+   
+  
+   
+}
+a{
+    text-decoration: none;
+} 
+
+
+.container{
+   border: 2px solid #f8f8f8;
+   justify-content: center;
+}
+
+.container{
+    display: flex;
+    
+    
+}
+.left-column {
+    border: 1px solid #ccc;
+   width: 25%;
+   height: 100vh;
+}
+.right-column {
+    border: 1px solid #ffffff;
+   width: 75%;
+   height: 100vh;
+}
